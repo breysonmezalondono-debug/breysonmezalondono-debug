@@ -1,23 +1,30 @@
 # Breyson Meza Londoño
 
-**Tecnólogo en Análisis y Desarrollo de Software**
-
-Desarrollador de software con enfoque en desarrollo web, programación orientada a objetos, bases de datos y arquitectura de aplicaciones. Experiencia construyendo soluciones full stack con Laravel, Node.js, Java (Spring Boot) y Python, aplicando buenas prácticas de ingeniería de software, modelado de datos y control de versiones.
+**Aprendiz de Tecnología en Análisis y Desarrollo de Software | SENA**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Breyson%20Meza%20Londoño-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breyson-meza-londoño-b720b2450)
 
 ---
 
+## Sobre mí
+
+Me interesa el desarrollo de software, la programación y la creación de soluciones tecnológicas. Durante mi formación he adquirido conocimientos en lógica de programación, programación orientada a objetos, desarrollo web y bases de datos.
+
+Me gusta comprender cómo funcionan las aplicaciones, analizar problemas y buscar diferentes formas de resolverlos. Me interesa especialmente el desarrollo backend, la gestión de bases de datos y la construcción de aplicaciones que puedan aportar soluciones útiles.
+
+---
+
 ## Perfil profesional
 
-- Desarrollo de aplicaciones web full stack (frontend y backend).
-- Diseño e implementación de APIs REST y consumo de servicios.
-- Modelado y administración de bases de datos relacionales (MySQL, SQL).
-- Análisis de requerimientos, casos de uso y documentación técnica.
-- Programación orientada a objetos y lógica de programación.
-- Trabajo con control de versiones (Git y GitHub) y metodologías ágiles.
+- Desarrollo de aplicaciones web y fundamentos de frontend y backend.
+- Lógica de programación y programación orientada a objetos.
+- Diseño, consultas y gestión de bases de datos relacionales con SQL y MySQL.
+- Fundamentos de desarrollo y consumo de APIs REST.
+- Análisis de requerimientos y modelado de soluciones de software.
+- Manejo de Git y GitHub para el control de versiones.
+- Interés en tecnologías como JavaScript, Java, Python y herramientas para el desarrollo backend.
 
-Me caracterizo por la responsabilidad, el pensamiento lógico, la resolución de problemas y la disposición constante para aprender y aportar a soluciones tecnológicas.
+Me considero una persona responsable, curiosa y comprometida con su aprendizaje. Me gusta investigar, comprender cómo funcionan las cosas y enfrentar nuevos retos. Busco seguir fortaleciendo mis habilidades y adquirir experiencia en el desarrollo de soluciones tecnológicas.
 
 ---
 
