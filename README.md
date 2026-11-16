@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Breyson Meza Londoño 👋</h1>
+<h1 align="center"> Breyson Meza Londoño </h1>
 
 <p align="center">
   <b>Tecnólogo en Análisis y Desarrollo de Software</b><br>
@@ -13,7 +13,7 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+##  Sobre mí
 
 Soy **Tecnólogo en Análisis y Desarrollo de Software en formación**, con conocimientos en desarrollo web, programación orientada a objetos, bases de datos y lógica de programación.
 
@@ -21,7 +21,7 @@ Me caracterizo por mi **responsabilidad**, **capacidad de aprendizaje**, **pensa
 
 ---
 
-## 🛠️ Conocimientos técnicos
+##  Conocimientos técnicos
 
 | Área | Conocimientos |
 |------|---------------|
@@ -36,7 +36,7 @@ Me caracterizo por mi **responsabilidad**, **capacidad de aprendizaje**, **pensa
 
 ---
 
-## 💻 Tecnologías
+##  Tecnologías
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
