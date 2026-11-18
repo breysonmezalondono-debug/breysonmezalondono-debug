@@ -8,6 +8,7 @@
 
 <br/>
 
+[![Portafolio](https://img.shields.io/badge/🌐_Ver_Portafolio-2f81f7?style=for-the-badge&logoColor=white)](https://breysonmezalondono-debug.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Breyson%20Meza%20Londoño-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breyson-meza-londoño-b720b2450)
 ![Profile views](https://komarev.com/ghpvc/?username=breysonmezalondono-debug&color=1f6feb&style=for-the-badge&label=VISITAS)
 ![Followers](https://img.shields.io/github/followers/breysonmezalondono-debug?style=for-the-badge&color=1f6feb&labelColor=0a0a0a)
@@ -67,16 +68,6 @@ Me considero una persona responsable, curiosa y comprometida con su aprendizaje.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
----
-
-## Trofeos de GitHub
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=breysonmezalondono-debug&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
 
 </div>
 
