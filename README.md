@@ -25,7 +25,7 @@ Me gusta comprender cómo funcionan las aplicaciones, analizar problemas y busca
 
 ---
 
-## Perfil profesional
+## Perfil
 
 - Desarrollo de aplicaciones web y fundamentos de frontend y backend.
 - Lógica de programación y programación orientada a objetos.
